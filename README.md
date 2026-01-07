@@ -2,7 +2,7 @@
 
 **Constant-time anagram comparison using packed bit-width representation.**
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18167975.svg)](https://doi.org/10.5281/zenodo.18167975)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18168195.svg)](https://doi.org/10.5281/zenodo.18168195)
 [![PyPI version](https://badge.fury.io/py/packed-anagram-hash.svg)](https://pypi.org/project/packed-anagram-hash/)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 
@@ -95,7 +95,7 @@ Check if two words are anagrams.
 
 ## Advanced: Multi-Register Extension
 
-For corpora requiring >64 bits (extremely long words or large alphabets), the algorithm extends to multiple registers. See the [paper](https://doi.org/10.5281/zenodo.18167975) for details.
+For corpora requiring >64 bits (extremely long words or large alphabets), the algorithm extends to multiple registers. See the [paper](https://doi.org/10.5281/zenodo.18168195) for details.
 
 ## Citation
 
@@ -108,8 +108,8 @@ If you use this in academic work:
                   Comparison Algorithm for Anagram Equivalence},
   year         = 2025,
   publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.18167975},
-  url          = {https://doi.org/10.5281/zenodo.18167975}
+  doi          = {10.5281/zenodo.18168195},
+  url          = {https://doi.org/10.5281/zenodo.18168195}
 }
 ```
 

@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "packed-anagram-hash"
-version = "1.0.0"
+version = "1.0.1"
 description = "Constant-time anagram hashing using packed bit-width representation"
 readme = "README.md"
 license = "CC0-1.0"
