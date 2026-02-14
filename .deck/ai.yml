@@ -1,0 +1,8 @@
+summary: |
+  Constant-time anagram comparison using packed bit-width representation.
+  Published on PyPI. DOI-registered on Zenodo. CC0 licensed.
+
+state: |
+  Published and stable. PyPI package, Zenodo DOI.
+
+next: |

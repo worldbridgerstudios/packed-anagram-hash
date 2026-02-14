@@ -1,0 +1,8 @@
+name: packed-anagram-hash
+status: active
+
+stack:
+  - python
+  - pypi
+
+connections: {}
